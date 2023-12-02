@@ -9,7 +9,6 @@ This repository showcases a conceptual approach to modify character models in SO
 ## :star: Concept Features
 - **Character Model Adjustment:** Conceptual method to alter character models during creation.
 - **Memory Hooking Demonstration:** Shows the process of hooking into a game's memory for modifications.
-- **Offset Customizability:** Illustrates how offsets can be updated for adapting to game updates (theoretical).
 
 ## :books: Educational Purpose
 - This project is intended as a learning resource for those interested in game development, memory manipulation, and ethical hacking.
