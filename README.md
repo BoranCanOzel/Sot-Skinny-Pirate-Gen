@@ -4,7 +4,7 @@
 This project is a proof of concept for educational purposes only. It demonstrates potential memory manipulation techniques in gaming environments, specifically in Sea of Thieves (SOT). Modifying game memory can violate the game's Terms of Service and may lead to actions by the game developers. Users should apply this knowledge responsibly and ethically.
 
 ## :bulb: Project Overview
-This repository showcases a conceptual approach to modify character models in SOT, aiming to make all randomized character creations skinny. It serves as an exploration of memory hooking techniques in video games. For a visual demonstration, check out this [YouTube Showcase](https://www.youtube.com/watch?v=wd221x5-a6k).
+This repository showcases a conceptual approach to modify character models in SOT, aiming to make all randomized character creations skinny. It serves as an exploration of memory hooking techniques in video games. For a visual demonstration, check out this [YouTube Showcase](https://youtu.be/0iWpncqKw4w).
 
 ## :star: Concept Features
 - **Character Model Adjustment:** Conceptual method to alter character models during creation.
