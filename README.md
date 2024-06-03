@@ -22,7 +22,7 @@ This repository showcases a conceptual approach to modify character models in SO
 - It is not a fully functional tool and is not intended for actual use in modifying game memory.
 
 ## :movie_camera: Visual Demonstration
-- For a closer look at the concept in action, view our [YouTube Showcase](https://www.youtube.com/watch?v=wd221x5-a6k).
+- For a closer look at the concept in action, view our [YouTube Showcase](https://youtu.be/0iWpncqKw4w).
 
 ## :question: Contributions and Discussions
 - Contributions and discussions are welcome for academic and educational purposes.
